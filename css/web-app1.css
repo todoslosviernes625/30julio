@@ -133,7 +133,7 @@ p {
   display: flex;
   align-items: center;
   flex-direction: column;
-  width: 18rem auto;
+  width: auto;
   height: 15rem;
   background: #fff;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
@@ -370,3 +370,4 @@ img {
   background-color: #ffffff;
   border-color: #cccccc;
 }
+
