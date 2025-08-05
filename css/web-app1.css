@@ -184,7 +184,7 @@ p {
 	font-size: 0.9rem;
 
 }
-tm-link{
+.tm-link{
   color: #fff;
   text-decoration: none;
 
@@ -339,13 +339,13 @@ tm-link{
 
 
 .img-rounded {
-  border-radius: 6px;
+
   max-width: 100%; 
   height: auto;
   padding: 0.25rem;
   background-color: #fff;
   border: 0.125rem solid #dee2e6;
-  border-radius: 0.5rem;
+  border-radius: 6px;  /**  border-radius: 0.5rem;**/
   max-width: 100%;
   height: auto;;
 	
@@ -370,4 +370,5 @@ img {
   background-color: #ffffff;
   border-color: #cccccc;
 }
+
 
