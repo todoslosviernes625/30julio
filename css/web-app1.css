@@ -167,8 +167,8 @@ p {
   text-decoration: none;
   border-radius: 20px;
 }
-
-.xxx {
+/** equis xxx **/
+.equis {
   text-decoration: none;
   background: #db4938;
   color: #fff;
@@ -370,5 +370,6 @@ img {
   background-color: #ffffff;
   border-color: #cccccc;
 }
+
 
 
